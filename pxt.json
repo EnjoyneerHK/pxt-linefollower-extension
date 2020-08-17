@@ -3,7 +3,6 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
         "servo": "*",
         "powerbrick": "github:kittenbot/pxt-powerbrick#v0.3.5"
     },
